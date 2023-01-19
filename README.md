@@ -1,6 +1,7 @@
 # Frontend packages observatory
 
-![Logo](Frontend%20packages%20observatory.png)
+![Logo](Logo%20small.png)
+
 *by DALL-E & Arek Machalica*
 
 On this repository we track high profile JS libraries used on our projects.
