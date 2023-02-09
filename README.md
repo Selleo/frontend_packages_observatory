@@ -8,7 +8,7 @@ On this repository we track high profile JS libraries used on our projects.
 
 **This form is our initial approach, we'll see how it fits our needs and adjust if necessary.**
 
-## react-query 
+## react-query
 
 v3.39.2 (Qstream)
 
@@ -67,6 +67,42 @@ v5.10.7 (Qstream)
 ##### Description
 
 WYSIWYG text editor, needed for @tinymce/tinymce-react
+
+##### BUGS
+
+##### Architectural decisions
+
+## react-hook-form
+
+v7.41 (Qstream)
+
+##### Description
+
+Form management library
+
+##### BUGS
+
+##### Architectural decisions
+
+## axios-mock-adapter
+
+v1.21 (Qstream)
+
+##### Description
+
+Allow mocking axios requests in tests
+
+##### BUGS
+
+##### Architectural decisions
+
+## nivo
+
+v0.74 (Qstream)
+
+##### Description
+
+Chart building library
 
 ##### BUGS
 
