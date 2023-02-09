@@ -108,6 +108,18 @@ Chart building library
 
 ##### Architectural decisions
 
+## zod
+
+v3.20 (any?)
+
+##### Description
+
+TS friendly replacement for yup
+
+##### BUGS
+
+##### Architectural decisions
+
 ----
 
 ## [package_name] 
