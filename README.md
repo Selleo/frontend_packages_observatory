@@ -120,6 +120,17 @@ TS friendly replacement for yup
 
 ##### Architectural decisions
 
+## moment.js
+
+v2.29 (Humly)
+
+##### Description
+
+Old fashion package for data management
+
+##### BUGS
+
+##### Architectural decisions
 ----
 
 ## [package_name] 
