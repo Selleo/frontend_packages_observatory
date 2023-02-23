@@ -36,42 +36,6 @@ Feature rich library for presenting data in tables
 
 We had to pick out-of-the-box solution. Since we already use @mui the DataGrid from @mui was an obvious choice.
 
-## react-i18next 
-
-v11.18.6 (Qstream)
-
-##### Description
-
-I18n solution for React (hooks & components)
-
-##### BUGS
-
-##### Architectural decisions
-
-## @tinymce/tinymce-react 
-
-v3.14.0 (Qstream)
-
-##### Description
-
-WYSIWYG text editor component for React
-
-##### BUGS
-
-##### Architectural decisions
-
-## tinymce 
-
-v5.10.7 (Qstream)
-
-##### Description
-
-WYSIWYG text editor, needed for @tinymce/tinymce-react
-
-##### BUGS
-
-##### Architectural decisions
-
 ## react-hook-form
 
 v7.41 (Qstream)
