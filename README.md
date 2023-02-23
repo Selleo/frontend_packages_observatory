@@ -8,6 +8,8 @@ On this repository we track high profile JS libraries used on our projects.
 
 **This form is our initial approach, we'll see how it fits our needs and adjust if necessary.**
 
+#### You can check the rapports [HERE](https://github.com/Selleo/frontend_packages_observatory/issues)
+
 ## react-query
 
 v3.39.2 (Qstream)
